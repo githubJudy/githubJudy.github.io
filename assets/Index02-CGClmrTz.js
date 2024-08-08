@@ -1,0 +1,1 @@
+import{_ as o,c,o as s,p as t,d as a,b as _}from"./index-CiWuUuAa.js";const d={},n=e=>(t("data-v-ee622abb"),e=e(),a(),e),p=n(()=>_("h1",null,"22",-1)),r=[p];function l(e,i){return s(),c("div",null,r)}const h=o(d,[["render",l],["__scopeId","data-v-ee622abb"]]);export{h as default};
