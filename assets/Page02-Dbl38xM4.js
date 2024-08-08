@@ -1,0 +1,1 @@
+import{_ as a,c as t,a as o,b as c,o as s,r}from"./formLineVue3-BJ3loStY.js";const _={__name:"Page02",setup(n){function e(){r.push("/page01")}return(p,d)=>(s(),t("div",null,[o(" page02 "),c("button",{onClick:e},"page01")]))}},l=a(_,[["__scopeId","data-v-dd90e7ed"]]);export{l as default};
